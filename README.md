@@ -36,7 +36,7 @@ El script inicia sesión en la API, crea los libros con ids del 8 al 57 y muestr
 2. Opcionalmente, guardarla en una variable de entorno para que el script no la pida:
 
 ```bash
-export GRAPHHOPPER_KEY="su_clave_aqui"
+export GRAPHHOPPER_KEY="xxxx-xxxx-xxxx"
 ```
 
 3. Ejecutar:
